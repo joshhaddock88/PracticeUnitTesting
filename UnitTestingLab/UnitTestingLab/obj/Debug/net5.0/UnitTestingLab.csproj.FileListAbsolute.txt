@@ -1,0 +1,16 @@
+C:\Users\joshh\Desktop\coding\401\labs\PracticeUnitTesting\UnitTestingLab\UnitTestingLab\bin\Debug\net5.0\UnitTestingLab.exe
+C:\Users\joshh\Desktop\coding\401\labs\PracticeUnitTesting\UnitTestingLab\UnitTestingLab\bin\Debug\net5.0\UnitTestingLab.deps.json
+C:\Users\joshh\Desktop\coding\401\labs\PracticeUnitTesting\UnitTestingLab\UnitTestingLab\bin\Debug\net5.0\UnitTestingLab.runtimeconfig.json
+C:\Users\joshh\Desktop\coding\401\labs\PracticeUnitTesting\UnitTestingLab\UnitTestingLab\bin\Debug\net5.0\UnitTestingLab.runtimeconfig.dev.json
+C:\Users\joshh\Desktop\coding\401\labs\PracticeUnitTesting\UnitTestingLab\UnitTestingLab\bin\Debug\net5.0\UnitTestingLab.dll
+C:\Users\joshh\Desktop\coding\401\labs\PracticeUnitTesting\UnitTestingLab\UnitTestingLab\bin\Debug\net5.0\ref\UnitTestingLab.dll
+C:\Users\joshh\Desktop\coding\401\labs\PracticeUnitTesting\UnitTestingLab\UnitTestingLab\bin\Debug\net5.0\UnitTestingLab.pdb
+C:\Users\joshh\Desktop\coding\401\labs\PracticeUnitTesting\UnitTestingLab\UnitTestingLab\obj\Debug\net5.0\UnitTestingLab.csproj.AssemblyReference.cache
+C:\Users\joshh\Desktop\coding\401\labs\PracticeUnitTesting\UnitTestingLab\UnitTestingLab\obj\Debug\net5.0\UnitTestingLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshh\Desktop\coding\401\labs\PracticeUnitTesting\UnitTestingLab\UnitTestingLab\obj\Debug\net5.0\UnitTestingLab.AssemblyInfoInputs.cache
+C:\Users\joshh\Desktop\coding\401\labs\PracticeUnitTesting\UnitTestingLab\UnitTestingLab\obj\Debug\net5.0\UnitTestingLab.AssemblyInfo.cs
+C:\Users\joshh\Desktop\coding\401\labs\PracticeUnitTesting\UnitTestingLab\UnitTestingLab\obj\Debug\net5.0\UnitTestingLab.csproj.CoreCompileInputs.cache
+C:\Users\joshh\Desktop\coding\401\labs\PracticeUnitTesting\UnitTestingLab\UnitTestingLab\obj\Debug\net5.0\UnitTestingLab.dll
+C:\Users\joshh\Desktop\coding\401\labs\PracticeUnitTesting\UnitTestingLab\UnitTestingLab\obj\Debug\net5.0\ref\UnitTestingLab.dll
+C:\Users\joshh\Desktop\coding\401\labs\PracticeUnitTesting\UnitTestingLab\UnitTestingLab\obj\Debug\net5.0\UnitTestingLab.pdb
+C:\Users\joshh\Desktop\coding\401\labs\PracticeUnitTesting\UnitTestingLab\UnitTestingLab\obj\Debug\net5.0\UnitTestingLab.genruntimeconfig.cache
